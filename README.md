@@ -2,13 +2,16 @@
 
 
 ## steps for setup projects
+
 ### 1. clone this repository
-### 2. run command 
+
+### 2.make .env file and copy  .env.example to .env file and  create database tulips
+
+### 3. run command 
 ```bash
 composer install
 ```
 
-### 3.make .env file and copy  .env.example to .env file and  create database tulips
 ### 4. run migration 
 ```bash
 php artisan migrate
