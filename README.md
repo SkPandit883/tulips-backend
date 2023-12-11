@@ -30,4 +30,10 @@ php artisan migrate
 ```
 your project will be running at http://127.0.0.1:8000
 
+## use credentials
+
+username: admin
+
+password: admin@123
+
 ### for any difficulty in project setup ,email me [ skpandit659@gmail.com]
